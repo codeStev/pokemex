@@ -1,0 +1,9 @@
+rootProject.name = 'pokemex'
+include 'api'
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}
+
+

@@ -1,0 +1,8 @@
+
+ext {
+    junitVersion = '5.8.1'
+}
+
+group 'de.codestev'
+version '1.0-SNAPSHOT'
+
