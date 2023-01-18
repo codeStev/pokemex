@@ -5,10 +5,15 @@ build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
-/.idea
+/.idea/
+.idea/compiler.xml
+.idea/gradle.xml
 .idea/modules.xml
 .idea/jarRepositories.xml
-.idea/compiler.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/workspace.xml
 .idea/libraries/
 *.iws
 *.iml
@@ -41,6 +46,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
-/.idea/
-/.idea/
